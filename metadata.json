@@ -1,0 +1,6 @@
+{
+  "name": "Job Application Tracker",
+  "description": "Professional Python & SQLite Job Application Tracker with OOP architecture, priority sorting, interview management, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

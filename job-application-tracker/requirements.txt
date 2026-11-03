@@ -1,0 +1,14 @@
+# Job Application Tracker - Python 3 & SQLite
+#
+# Core Requirements:
+# The project runs entirely on Python 3.8+ Standard Library!
+# No external pip dependencies are required to run the application or tests.
+# Built-in modules used:
+# - sqlite3 (Permanent database storage and ACID transactions)
+# - unittest (Automated test suite)
+# - abc, enum, dataclasses (OOP principles, encapsulation, polymorphism)
+# - os, sys, re, datetime (CLI, pathing, dates, validations)
+#
+# Optional enhancements (if you want advanced third-party terminal styling):
+# tabulate>=0.9.0
+# colorama>=0.4.6
