@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Job Application Tracker
 
-# Run and deploy your AI Studio app
+A user-friendly web application to manage and track job applications in one place.
 
-This contains everything you need to run your app locally.
+## Features
+- Add job applications
+- Track application status
+- Manage company details
+- Monitor interview progress
+- User-friendly dashboard
 
-View your app in AI Studio: https://ai.studio/apps/41fd2159-733b-4a67-9473-e45e26e3d74e
+## Technologies Used
+- React.js
+- JavaScript
+- TypeScript
+- CSS
+- Vite
 
-## Run Locally
+## How to Run
 
-**Prerequisites:**  Node.js
+1. Clone the repository.
+2. Run `npm install`.
+3. Run `npm run dev`.
+4. Open the local URL shown in the terminal.
 
+## Author
+Archana Naidu
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+GitHub: https://github.com/bussaarchana12-cmd
